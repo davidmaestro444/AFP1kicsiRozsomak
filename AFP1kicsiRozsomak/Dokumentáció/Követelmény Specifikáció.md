@@ -10,7 +10,7 @@ Jelenleg nincs elég olyan letölthető könnyen elérhető kártya fordítós m
 
 ## 3. Vágyálomrendszer
 
-A cél egy olyan kártyafordítós memóriajáték elkészítése ami egyszerű és átlátható. Ha a felhasználó elkezdi a játékot és rákattint egy kártyára akkor az átfordul és ha rákattint egy másik kártyára és nem pár akkor egy bizonyos idő után mindkettő visszafordul, de ha pár akkor felfordítva marad és ha az összes párt felfordította a megadott esélyek alatt akkor kiírja, hogy nyert a felhasználó és hogy hány lépésből sikerült megtalálnia az összes párt.
+A cél egy olyan kártyafordítós memóriajáték elkészítése ami egyszerű és átlátható. Ha a felhasználó elkezdi a játékot és rákattint egy kártyára akkor az átfordul és ha rákattint egy másik kártyára és nem pár akkor egy bizonyos idő után mindkettő visszafordul, de ha pár akkor felfordítva marad és ha az összes párt felfordította a megadott esélyek alatt akkor kiírja, hogy nyert a felhasználó és hogy hány lépésből sikerült megtalálnia az összes párt. A játék C# Form-ban lessz leprogramozva.
 
 ## 4. Jelenlegi üzleti folyamatok modellje
 
@@ -24,6 +24,9 @@ A felhasználó, ha letöltötte a játékot akkor akármikor meg tudja nyitni a
 
 | Id | Modul | Név | Leírás |
 | :---: | --- | --- | --- |
-| K1 | ... | ... | ... |
+| K1 | Játék | Kártyák megjelenítése | A játékos lát egy lefelé fordított kártyarácsot a képernyőn. |
+| K2 | Játék | Kártyák felfordítása | A játékos két kártyát fordíthat fel egyszerre, ha rákattint a kártyákra. |
+| K3 | Játék | Pár megtalálása | Ha a két felfordított kártya azonos, azok felfordulva maradnak. |
+| K4 | Játék | Kártyák visszafordítása | Ha a két kártya nem egyezik, egy idő után visszafordulnak. |
 
 ## 7. Fogalomtár
