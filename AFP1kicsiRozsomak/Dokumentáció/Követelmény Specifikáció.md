@@ -2,9 +2,11 @@
 
 ## 1. Áttekintés
 
-A szoftver célja egy memória tesztelő játék elkészítése. Az interneten vannak már ilyen játékok, de azok reklámokkal teli játék oldalakon vannak vagy a már nem is működnek. Ez azokhoz képest egy letölthető és internet elérés nélkül is játszható játék lessz amit akármikor használhat a megrendelő.
+A szoftver célja egy memória tesztelő játék elkészítése. Az interneten vannak már ilyen játékok, de azok reklámokkal teli játék oldalakon vannak vagy a már nem is működnek. Ez azokhoz képest egy letölthető és internet elérés nélkül is játszható játék lesz amit akármikor használhat a megrendelő.
 
 ## 2. A jelenlegi helyzet leírása
+
+Jelenleg nincs elég olyan letölthető könnyen elérhető kártya fordítós memóriajáték amit internet elérés nélkül lehet használni és egyszerűen lehet kezelni ahol a játékos tudja tesztelni a memóriáját és reakció idejét.
 
 ## 3. Vágyálomrendszer
 
