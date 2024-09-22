@@ -18,6 +18,8 @@ Jelenleg, ha a felhasználó játszani akar egy memória tesztelő játékkal ak
 
 ## 5. Igényelt üzleti folyamatok modellje
 
+A felhasználó, ha letöltötte a játékot akkor akármikor meg tudja nyitni a és addig játszik vele zavaratlanul ameddig akar és ha végzett a játékkal akkor szimplán bezárja a játékot.
+
 ## 6. Követelménylista
 
 | Id | Modul | Név | Leírás |
