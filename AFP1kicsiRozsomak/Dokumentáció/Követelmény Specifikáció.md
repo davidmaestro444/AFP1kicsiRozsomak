@@ -10,6 +10,8 @@ Jelenleg nincs elég olyan letölthető könnyen elérhető kártya fordítós m
 
 ## 3. Vágyálomrendszer
 
+A cél egy olyan kártyafordítós memóriajáték elkészítése ami egyszerű és átlátható. Ha a felhasználó elkezdi a játékot és rákattint egy kártyára akkor az átfordul és ha rákattint egy másik kártyára és nem pár akkor egy bizonyos idő után mindkettő visszafordul, de ha pár akkor felfordítva marad és ha az összes párt felfordította a megadott esélyek alatt akkor kiírja, hogy nyert a felhasználó és hogy hány lépésből sikerült megtalálnia az összes párt.
+
 ## 4. Jelenlegi üzleti folyamatok modellje
 
 ## 5. Igényelt üzleti folyamatok modellje
