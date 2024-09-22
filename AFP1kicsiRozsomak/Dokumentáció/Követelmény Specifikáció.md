@@ -30,3 +30,8 @@ A felhasználó, ha letöltötte a játékot akkor akármikor meg tudja nyitni a
 | K4 | Játék | Kártyák visszafordítása | Ha a két kártya nem egyezik, egy idő után visszafordulnak. |
 
 ## 7. Fogalomtár
+
+| Fogalom | Leírás |
+| :---: | --- |
+| C# | programozási nyelv, az játék ebben lesz megírva |
+| szoftver | számítógépre írt program |
