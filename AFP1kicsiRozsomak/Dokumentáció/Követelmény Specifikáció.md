@@ -14,6 +14,8 @@ A cél egy olyan kártyafordítós memóriajáték elkészítése ami egyszerű 
 
 ## 4. Jelenlegi üzleti folyamatok modellje
 
+Jelenleg, ha a felhasználó játszani akar egy memória tesztelő játékkal akkor az interneten kell rákeresnie és reklámokkal teli játékoldalakon kell játszania ahol kötelező az internetelérés. Azoknak a játékoknak a minősége is változó és sokáig is eltarthat, ha az ember egy minőségi játékot akar találni. Ezek nagyrészét nem lehet letölteni és azonnal használni akármikor a felhasználó akarja.
+
 ## 5. Igényelt üzleti folyamatok modellje
 
 ## 6. Követelménylista
