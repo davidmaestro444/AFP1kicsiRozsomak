@@ -1,6 +1,8 @@
 # Rendszerterv
 ## 1. A rendszer célja
 
+A rendszer célja egy egyszerű memóriatesztelő játék amit egyszerűen lehet játszani amikor a felhasználó akarja.
+
 ## 2. Projektterv
 
 ### 2.1 Projektszerepkörök, felelőségek:
@@ -50,9 +52,13 @@
 
 ### Támogatott eszközök
 
+Egy asztali alkalmazást tervezünk amit a legtöbb PC-n futtatni lehet majd. Internetkapcsolat nem kell a használatához.
+
 ## 5. Funkcionális terv
 
 ### 5.1 Rendszerszereplők
+
+-Játékos
 
 ### 5.2 Menühierarchiák
 
@@ -68,6 +74,8 @@
 
 
 ## 8. Architekturális terv
+
+A játékot C# nyelven írtuk és a Windows Forms Appot használjuk.
 
 ### Webszerver
 
@@ -105,9 +113,7 @@ például. Teszt #01 | Regisztráció | A felhasználó az adatok megadásával 
 
 ## 12. Telepítési terv
 
-Fizikai telepítési terv: 
-
-Szoftver telepítési terv: 
+Nem szükséges telepíteni a szoftvert a felhasználó. Elég hogyha a gépen jelen van a .NET keretrendszer amivel akármikor futtatni tudja a felhasználó.
 
 ## 13. Karbantartási terv
 
