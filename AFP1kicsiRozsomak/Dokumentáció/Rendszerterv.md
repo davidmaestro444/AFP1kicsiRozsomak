@@ -52,6 +52,8 @@ A rendszer célja egy egyszerű memóriatesztelő játék amit egyszerűen lehet
 
 ### Támogatott eszközök
 
+Egy asztali alkalmazást tervezünk amit a legtöbb PC-n futtatni lehet majd. Internetkapcsolat nem kell a használatához.
+
 ## 5. Funkcionális terv
 
 ### 5.1 Rendszerszereplők
