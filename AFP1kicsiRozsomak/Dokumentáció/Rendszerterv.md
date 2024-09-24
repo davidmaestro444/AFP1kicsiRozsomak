@@ -75,6 +75,8 @@ Egy asztali alkalmazást tervezünk amit a legtöbb PC-n futtatni lehet majd. In
 
 ## 8. Architekturális terv
 
+A játékot C# nyelven írtuk és a Windows Forms Appot használjuk.
+
 ### Webszerver
 
 ### Adatbázis rendszer
