@@ -32,10 +32,6 @@ A rendszer célja egy egyszerűen használható memóriatesztelő játék, amit 
 
 ## 3. Üzleti folyamatok modellje
 
-### 3.1 Üzleti szereplők
-
-### 3.2 Üzleti folyamatok
-
 ## 4. Követelmények
 
 ### Funkcionális követelmények
@@ -54,7 +50,7 @@ A rendszer célja egy egyszerűen használható memóriatesztelő játék, amit 
 
 ### Támogatott eszközök
 
-Egy asztali alkalmazást tervezünk amit a legtöbb PC-n futtatni lehet majd. Internetkapcsolat nem kell a használatához.
+Egy asztali alkalmazást tervezünk, amit a legtöbb PC-n futtatni lehet. Használatához internetkapcsolatra nincs szükség.
 
 ## 5. Funkcionális terv
 
