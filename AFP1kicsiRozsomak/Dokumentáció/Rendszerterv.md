@@ -1,7 +1,7 @@
 # Rendszerterv
 ## 1. A rendszer célja
 
-A rendszer célja egy egyszerűen használható memóriatesztelő játék, amit bárki (felhasználó) könnyen elsajátíthatja.
+A rendszer célja egy egyszerűen használható memóriatesztelő játék, amit bárki (felhasználó) könnyen elsajátíthat.
 
 ## 2. Projektterv
 
