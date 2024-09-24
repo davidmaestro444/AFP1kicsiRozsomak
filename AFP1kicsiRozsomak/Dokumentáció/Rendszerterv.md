@@ -113,9 +113,7 @@ például. Teszt #01 | Regisztráció | A felhasználó az adatok megadásával 
 
 ## 12. Telepítési terv
 
-Fizikai telepítési terv: 
-
-Szoftver telepítési terv: 
+Nem szükséges telepíteni a szoftvert a felhasználó. Elég hogyha a gépen jelen van a .NET keretrendszer amivel akármikor futtatni tudja a felhasználó.
 
 ## 13. Karbantartási terv
 
