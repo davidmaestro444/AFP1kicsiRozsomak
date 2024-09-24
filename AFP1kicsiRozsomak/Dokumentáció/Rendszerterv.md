@@ -77,11 +77,8 @@ Egy asztali alkalmazást tervezünk amit a legtöbb PC-n futtatni lehet majd. In
 
 A játékot C# nyelven írtuk és a Windows Forms Appot használjuk.
 
-### Webszerver
-
-### Adatbázis rendszer
-
 ### A program elérése, kezelése
+A program használatához a Visual Studio előzetes telepítése, majd későbbi megnyitása szükséges. Windows Forms-on keresztül elérjük a játék felületét, amihez már csak egyet kell kattintani a konzolon lévő 'Start'-ra. 
 
 ## 9. Adatbázis terv
 
