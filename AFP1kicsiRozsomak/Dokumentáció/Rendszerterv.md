@@ -58,6 +58,8 @@ Egy asztali alkalmazást tervezünk amit a legtöbb PC-n futtatni lehet majd. In
 
 ### 5.1 Rendszerszereplők
 
+-Játékos
+
 ### 5.2 Menühierarchiák
 
 ## 6. Fizikai környezet
