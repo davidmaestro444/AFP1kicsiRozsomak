@@ -1,14 +1,14 @@
 # Rendszerterv
 ## 1. A rendszer célja
 
-A rendszer célja egy egyszerű memóriatesztelő játék amit egyszerűen lehet játszani amikor a felhasználó akarja.
+A rendszer célja egy egyszerű memóriatesztelő játék, aminek egyszerű a használata és bárki (felhasználó) könnyen elsajátíthatja.
 
 ## 2. Projektterv
 
 ### 2.1 Projektszerepkörök, felelőségek:
-   * Scrum masters:
-   * Product owner: 
-   * Üzleti szereplő:
+   * Scrum masters: Sinka Barnabás
+   * Product owner: Tajti Tibor
+   * Üzleti szereplő: Penyaskó Dávid
      
 ### 2.2 Projektmunkások és felelőségek:
    * Frontend:
