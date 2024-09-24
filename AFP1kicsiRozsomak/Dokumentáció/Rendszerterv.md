@@ -1,6 +1,8 @@
 # Rendszerterv
 ## 1. A rendszer célja
 
+A rendszer célja egy egyszerű memóriatesztelő játék amit egyszerűen lehet játszani amikor a felhasználó akarja.
+
 ## 2. Projektterv
 
 ### 2.1 Projektszerepkörök, felelőségek:
