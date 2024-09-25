@@ -44,6 +44,9 @@ A rendszer célja egy egyszerűen használható memóriatesztelő játék, amit 
 
 ### Nemfunkcionális követelmények
 
+A felhasználók nem juthatnak hozzá más felhasználók személyes adataihoz a
+nevükön és azonosítóikon kívül.
+
 | ID | Megnevezés | Leírás |
 | --- | --- | --- |
 | K4 | ... | ... |
@@ -56,20 +59,23 @@ Egy asztali alkalmazást tervezünk, amit a legtöbb PC-n futtatni lehet. Haszn�
 
 ### 5.1 Rendszerszereplők
 
--Játékos
+Ebben a projektben csak a játékos szerepel.
 
 ### 5.2 Menühierarchiák
 
+Bejelentkezésre nincs szükség, hiszen fiókot sem kell létrehozni a játék futtatásához (a projekthez).
+
+Main Menu (Főmenü):
+- "Új játék" gomb -> a játékos új játékot kezdhet, ha rákattint az alábbi gombra
+- "Kilépés" -> a játékost kilépteti a játékból, a program futása befejeződik
+Leírás: Játékos találkozik a főmenüvel, ahol az Új játék / Kilépés gombra kattinthat. Más választási lehetősége nincs.
+
 ## 6. Fizikai környezet
 
-### Vásárolt softwarekomponensek és külső rendszerek
-
-### Hardver topológia
-
-### Fizikai alrendszerek
-
-### Fejlesztő eszközök
-
+### 6.1 Fejlesztő eszközök
+- Notepad++ -> terv elkészítéséhez és ötletek felírásához 
+- Visual Studio -> C# nyelven kódoláshoz
+- Windows Forms -> a játék platformja, amivel a játékos találkozik 
 
 ## 8. Architekturális terv
 
@@ -77,8 +83,6 @@ A játékot C# nyelven írtuk és a Windows Forms Appot használjuk.
 
 ### A program elérése, kezelése
 A program használatához a Visual Studio előzetes telepítése, majd későbbi megnyitása szükséges. Windows Forms-on keresztül elérjük a játék felületét, amihez már csak egyet kell kattintani a konzolon lévő 'Start'-ra. 
-
-## 9. Adatbázis terv
 
 ## 10. Implementációs terv
 
