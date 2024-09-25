@@ -1,7 +1,19 @@
 # Rendszerterv
 ## 1. A rendszer célja
 
-A rendszer célja egy egyszerűen használható memóriatesztelő játék, amit bárki (felhasználó) könnyen elsajátíthat.
+A rendszer célja egy egyszerűen használható memóriatesztelő/memóriafejlesztő játék létrehozása, amit bármilyen felhasználó könnyen elsajátíthat.
+Fontos, hogy a felhasználó gyorsan el tudjon igazodni a felületen, ezért minimalista felhasználói felületet kap a program.
+
+ A felhasználó pontszámokat kap
+arról, hogyan sikerült megoldania a feladatokat.  A tanár szerepkörrel rendelkező felhasználók
+feltölthetnek feladatsorokat az adatbázisba. A rendszer használható
+Androidos eszközökön, alkalmazás formájában, valamint webes felületen is
+elérhető. A rendszer az adatokat egy Web Service segítségével kapja az
+adatbázisból. Mivel az alkalmazást csak webes felületen, és Android
+alkalmazásban szeretnénk elérhetővé tenni, nem célunk hogy más, például
+IOS operációs rendszerrel rendelkező eszközön fusson. A felhasználó a
+feladatsorok megoldása után pontszámokat kap. Teljesítményét a toplistán is
+megtekintheti.
 
 ## 2. Projektterv
 
