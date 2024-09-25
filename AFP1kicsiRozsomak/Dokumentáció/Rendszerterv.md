@@ -91,7 +91,7 @@ Leírás: Játékos találkozik a főmenüvel, ahol az Új játék / Kilépés g
 
 ## 8. Architekturális terv
 
-A játékot C# nyelven írtuk és a Windows Forms Appot használjuk.
+A játékot C# nyelven írjuk és a Windows Forms Appot használjuk.
 
 ### A program elérése, kezelése
 A program használatához a Visual Studio előzetes telepítése, majd későbbi megnyitása szükséges. Windows Forms-on keresztül elérjük a játék felületét, amihez már csak egyet kell kattintani a konzolon lévő 'Start'-ra. 
@@ -111,16 +111,6 @@ Egy teszt eredményeit a tagok dokumentálják külön fájlokba.
  |-----------|-----------------| 
  | ... | ... |
 
-### A tesztelési jegyzőkönyv kitöltésére egy sablon:
-
-**Tesztelő:** Vezetéknév Keresztnév
-
-**Tesztelés dátuma:** Év.Hónap.Nap
-
-Tesztszám | Rövid leírás | Várt eredmény | Eredmény | Megjegyzés
-----------|--------------|---------------|----------|-----------
-például. Teszt #01 | Regisztráció | A felhasználó az adatok megadásával sikeresen regisztrálni tud  | A felhasználó sikeresen regisztrált | Nem találtam problémát.
-... | ... | ... | ... | ...
 
 ## 12. Telepítési terv
 
