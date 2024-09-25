@@ -118,4 +118,4 @@ Fontos ellenőrizni:
 Figyelembe kell venni a felhasználó által jött visszajelzést is a programmal kapcsolatban.
 Ha hibát talált, mielőbb orvosolni kell, lehet az:
 *	Működéssel kapcsolatos
-*	Kinézet, dizájnnal kapcsolatos
+*	Kinézet, design-nal kapcsolatos
