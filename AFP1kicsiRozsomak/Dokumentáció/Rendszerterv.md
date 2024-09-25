@@ -11,9 +11,9 @@ A rendszer célja egy egyszerűen használható memóriatesztelő játék, amit 
    * Üzleti szereplő: Penyaskó Dávid
      
 ### 2.2 Projektmunkások és felelőségek:
-   * Frontend:   Bobák Martin Ferenc, Bogáthy Péter, Deme Bence, Góga Dávid, Kovács Olivér 
-   * Backend:    Bobák Martin Ferenc, Bogáthy Péter, Deme Bence, Góga Dávid, Kovács Olivér 
-   * Tesztelés:  Bobák Martin Ferenc, Bogáthy Péter, Deme Bence, Góga Dávid, Kovács Olivér 
+   * Frontend:   Bobák Martin Ferenc, Bogáthy Péter, Góga Dávid 
+   * Backend:    Bobák Martin Ferenc, Bogáthy Péter, Góga Dávid 
+   * Tesztelés:  Bobák Martin Ferenc, Bogáthy Péter, Góga Dávid 
      
 ### 2.3 Ütemterv:
 
