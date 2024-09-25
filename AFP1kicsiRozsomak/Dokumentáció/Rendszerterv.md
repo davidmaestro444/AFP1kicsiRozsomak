@@ -48,7 +48,8 @@ megtekintheti.
 
 ### Funkcionális követelmények
 
-| ID | Modul | Név | Leírás |
+| Id | Modul | Név | Leírás |
+| :---: | --- | --- | --- |
 | K1 | Játék | Kártyák megjelenítése | A játékos lát egy lefelé fordított kártyarácsot a képernyőn. |
 | K2 | Játék | Kártyák felfordítása | A játékos két kártyát fordíthat fel egyszerre, ha rákattint a kártyákra. |
 | K3 | Játék | Pár megtalálása | Ha a két felfordított kártya azonos, azok felfordulva maradnak. |
