@@ -1,0 +1,11 @@
+E:\Beadando git\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\bin\Debug\projekt.exe.config
+E:\Beadando git\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\bin\Debug\projekt.exe
+E:\Beadando git\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\bin\Debug\projekt.pdb
+E:\Beadando git\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.AssemblyReference.cache
+E:\Beadando git\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.SuggestedBindingRedirects.cache
+E:\Beadando git\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.Form1.resources
+E:\Beadando git\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+E:\Beadando git\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.cache
+E:\Beadando git\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+E:\Beadando git\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.exe
+E:\Beadando git\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.pdb
