@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -42,6 +43,48 @@ namespace projekt
 
                 symbols.RemoveAt(random);
             }
+        }
+
+        private void elsonyomott(object sender, EventArgs e)
+        {
+            Label nyomott = sender as Label;
+            if (elso!=null && masodik!=null)
+            {
+                return;
+            }
+            
+            if (nyomott.ForeColor==Color.White)
+            {
+                return;
+            }
+
+            if (elso==null)
+            {
+                elso = nyomott;
+                elso.ForeColor = Color.White;
+                return;
+            }
+            
+             masodik = nyomott;
+             masodik.ForeColor = Color.White;
+
+            if (elso.Text==masodik.Text)
+            {
+                elso = null;
+                masodik = null;
+                return;
+            }
+
+            timer1.Start();
+        }
+
+        private void idozito(object sender, EventArgs e)
+        {
+            timer1.Stop();
+            elso.ForeColor = elso.BackColor;
+            masodik.ForeColor = masodik.BackColor;
+            elso = null;
+            masodik = null;
         }
     }
 }
