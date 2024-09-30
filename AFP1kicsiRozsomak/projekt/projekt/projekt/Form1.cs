@@ -17,14 +17,31 @@ namespace projekt
         {
             "!","!","$","$","%","%","p","p","ˆ","ˆ","N","N","f","f","e","e"
         };
+        Label elso;
+        Label masodik;
         public Form1()
         {
             InitializeComponent();
+            Feltoltes();
         }
 
         private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
         {
 
+        }
+
+        private void Feltoltes()
+        {
+            int random;
+            Label label;          
+            for (int i = 0; i < panel.Controls.Count; i++)
+            {
+                label = (Label)panel.Controls[i];
+                random = rnd.Next(0,symbols.Count);
+                label.Text = symbols[random];
+
+                symbols.RemoveAt(random);
+            }
         }
     }
 }
