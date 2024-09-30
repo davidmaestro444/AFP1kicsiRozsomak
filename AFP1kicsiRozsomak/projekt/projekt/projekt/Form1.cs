@@ -12,6 +12,11 @@ namespace projekt
 {
     public partial class Form1 : Form
     {
+        Random rnd = new Random();
+        List<string> symbols = new List<string>()
+        {
+            "!","!","$","$","%","%","p","p","ˆ","ˆ","N","N","f","f","e","e"
+        };
         public Form1()
         {
             InitializeComponent();
