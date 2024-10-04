@@ -89,7 +89,5 @@ namespace projekt
             elso = null;
             masodik = null;
         }
-
-
     }
 }
