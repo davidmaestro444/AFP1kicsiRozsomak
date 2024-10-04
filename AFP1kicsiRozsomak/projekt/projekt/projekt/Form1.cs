@@ -26,6 +26,7 @@ namespace projekt
         public Form1()
         {
             InitializeComponent();
+            probak.Text = "Próbálkozások: 0";
             Feltoltes();
         }
 

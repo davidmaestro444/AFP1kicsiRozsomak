@@ -48,7 +48,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.label17 = new System.Windows.Forms.Label();
-            this.label18 = new System.Windows.Forms.Label();
+            this.probak = new System.Windows.Forms.Label();
             this.panel.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -328,21 +328,21 @@
             this.label17.TabIndex = 1;
             this.label17.Text = "label17";
             // 
-            // label18
+            // probak
             // 
-            this.label18.AutoSize = true;
-            this.label18.Location = new System.Drawing.Point(17, 9);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(97, 16);
-            this.label18.TabIndex = 1;
-            this.label18.Text = "próbálkozások";
+            this.probak.AutoSize = true;
+            this.probak.Location = new System.Drawing.Point(17, 9);
+            this.probak.Name = "probak";
+            this.probak.Size = new System.Drawing.Size(97, 16);
+            this.probak.TabIndex = 1;
+            this.probak.Text = "próbálkozások";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(532, 503);
-            this.Controls.Add(this.label18);
+            this.Controls.Add(this.probak);
             this.Controls.Add(this.label17);
             this.Controls.Add(this.panel);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
@@ -375,7 +375,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.Label label17;
-        private System.Windows.Forms.Label label18;
+        private System.Windows.Forms.Label probak;
     }
 }
 
