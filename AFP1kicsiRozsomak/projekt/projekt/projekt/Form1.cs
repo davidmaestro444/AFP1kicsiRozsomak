@@ -51,6 +51,7 @@ namespace projekt
 
         private void elsonyomott(object sender, EventArgs e)
         {
+
             Label nyomott = sender as Label;
             if (elso!=null && masodik!=null)
             {
@@ -71,6 +72,9 @@ namespace projekt
             
              masodik = nyomott;
              masodik.ForeColor = Color.White;
+
+            probalkozas++;
+            probak.Text = "Próbálkozások: " + probalkozas;
 
             if (elso.Text==masodik.Text)
             {
