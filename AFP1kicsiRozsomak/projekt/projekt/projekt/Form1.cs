@@ -20,6 +20,9 @@ namespace projekt
         };
         Label elso;
         Label masodik;
+
+        int probalkozas = 0;
+
         public Form1()
         {
             InitializeComponent();

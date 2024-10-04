@@ -320,7 +320,7 @@
             // label17
             // 
             this.label17.AutoSize = true;
-            this.label17.Location = new System.Drawing.Point(447, 9);
+            this.label17.Location = new System.Drawing.Point(454, 9);
             this.label17.Name = "label17";
             this.label17.Size = new System.Drawing.Size(51, 16);
             this.label17.TabIndex = 1;
@@ -335,7 +335,7 @@
             this.Controls.Add(this.panel);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "re";
             this.panel.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();

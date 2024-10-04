@@ -19,3 +19,13 @@ C:\Users\User\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\proje
 C:\Users\User\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.exe
 C:\Users\User\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.AssemblyReference.cache
+C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.Form1.resources
+C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.cache
+C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.pdb
