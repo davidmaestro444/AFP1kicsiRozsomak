@@ -73,6 +73,8 @@ namespace projekt
              masodik = nyomott;
              masodik.ForeColor = Color.White;
 
+            NyertesEllenorzes();
+
             probalkozas++;
             probak.Text = "Próbálkozások: " + probalkozas;
 
