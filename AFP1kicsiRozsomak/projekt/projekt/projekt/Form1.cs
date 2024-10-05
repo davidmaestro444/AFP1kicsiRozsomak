@@ -98,6 +98,10 @@ namespace projekt
                     break;
                 }
             }
+            if (nyert)
+            {
+                MessageBox.Show("Gratulálok, a feladványt " + probalkozas +" próbálkozásból oldottad meg!");
+            }
         }
 
         private void idozito(object sender, EventArgs e)

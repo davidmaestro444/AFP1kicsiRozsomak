@@ -29,3 +29,13 @@ C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\proj
 C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
 C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.exe
 C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\Goga\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\Goga\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\Goga\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\Goga\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.AssemblyReference.cache
+C:\Users\Goga\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.Form1.resources
+C:\Users\Goga\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\Goga\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.cache
+C:\Users\Goga\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\Goga\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.pdb
