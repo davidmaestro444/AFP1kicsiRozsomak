@@ -103,6 +103,7 @@ namespace projekt
             if (nyert)
             {
                 MessageBox.Show("Gratulálok, a feladványt " + probalkozas +" próbálkozásból oldottad meg!");
+                Close();
             }
         }
 
