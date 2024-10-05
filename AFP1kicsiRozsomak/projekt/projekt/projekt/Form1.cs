@@ -86,6 +86,20 @@ namespace projekt
             timer1.Start();
         }
 
+        private void NyertesEllenorzes()
+        {
+            bool nyert = true;
+            foreach (Control control in panel.Controls)
+            {
+                Label label = control as Label;
+                if (label != null && label.ForeColor != Color.White)
+                {
+                    nyert = false;
+                    break;
+                }
+            }
+        }
+
         private void idozito(object sender, EventArgs e)
         {
             timer1.Stop();
@@ -93,6 +107,11 @@ namespace projekt
             masodik.ForeColor = masodik.BackColor;
             elso = null;
             masodik = null;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
