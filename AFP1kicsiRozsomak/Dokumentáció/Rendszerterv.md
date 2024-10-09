@@ -60,13 +60,9 @@ megtekintheti.
 A felhasználók nem juthatnak hozzá más felhasználók személyes adataihoz a
 nevükön és azonosítóikon kívül.
 
-| ID | Megnevezés | Leírás |
-| --- | --- | --- |
-| K4 | ... | ... |
-
 ### Támogatott eszközök
 
-Egy asztali alkalmazást tervezünk, amit a legtöbb PC-n futtatni lehet. Használatához internetkapcsolatra nincs szükség.
+Egy asztali alkalmazást tervezünk, amit a legtöbb PC-n futtatni lehet. Használatához internetkapcsolat nem szükség.
 
 ## 5. Funkcionális terv
 
@@ -117,12 +113,3 @@ Egy teszt eredményeit a tagok dokumentálják külön fájlokba.
 
 Nem szükséges telepíteni a szoftvert a felhasználó. Elég hogyha a gépen jelen van a .NET keretrendszer amivel akármikor futtatni tudja a felhasználó.
 
-## 13. Karbantartási terv
-
-Fontos ellenőrizni:
-...
-
-Figyelembe kell venni a felhasználó által jött visszajelzést is a programmal kapcsolatban.
-Ha hibát talált, mielőbb orvosolni kell, lehet az:
-*	Működéssel kapcsolatos
-*	Kinézet, design-nal kapcsolatos
