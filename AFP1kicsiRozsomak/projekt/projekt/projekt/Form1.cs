@@ -30,6 +30,9 @@ namespace projekt
             Feltoltes();
         }
 
+        System.Timers.Timer Timer;
+        int m, s;
+
         private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
         {
 
@@ -116,9 +119,32 @@ namespace projekt
             masodik = null;
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void Timer_Elapsed(object sender, System.Timers.ElapsedEventArgs e)
         {
-
+                Invoke(new Action(() =>
+                {
+                    s = s + 1;
+                    if (s == 60)
+                    {
+                        m = m + 1;
+                        s = 0;
+                    }
+                    label17.Text = "Time: " + m + ":" + s;
+            
+            
+            
+            
+                }));
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+            {
+                Timer = new System.Timers.Timer();
+                Timer.Interval = 1000;
+                Timer.Elapsed += Timer_Elapsed;
+                Timer.Start();
+            }
+
+
     }
 }
