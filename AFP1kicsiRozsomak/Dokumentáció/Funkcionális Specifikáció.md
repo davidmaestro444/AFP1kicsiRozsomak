@@ -6,11 +6,11 @@ Jelenleg nincsen az inteneten elegendő olyan letölthető, és könnyen elérhe
 
 ## 2. Vágyálomrendszer leírása
 
-A cél egy olyan kártyafordítós memóriajáték elkészítése, ami egyszerű és átlátható. Amikor a felhasználó elkezdi a játékot és rákattint kettő kártyára, akkor azok átfordulnak és ha nem párok akkor egy bizonyos idő után mindkettő visszafordul, ellenkező esetben ekkor felfordítva maradnak és ha az összes párt felfordította a megadott esélyek alatt akkor kapunk egy értesítést, hogy nyert a felhasználó és hogy hány lépésből sikerült megtalálnia az összes párt. A játék C# Form-ban lesz leprogramozva.
+A cél egy olyan kártyafordítós memóriajáték elkészítése, ami egyszerű és átlátható. Amikor a felhasználó elkezdi a játékot és rákattint kettő kártyára, akkor azok átfordulnak és ha nem párok, akkor egy bizonyos idő után mindkettő visszafordul, ellenkező esetben ekkor felfordítva maradnak és ha az összes párt felfordította a megadott esélyek alatt, akkor kapunk egy értesítést, hogy nyert a felhasználó és hogy hány lépésből sikerült megtalálnia őket. A játék C# Form-ban lesz leprogramozva.
 
 ## 3. Jelenlegi üzleti folyamatok modellje
 
-Jelenleg, ha a felhasználó játszani szeretne egy memória tesztelő játékkal akkor az interneten kell rákeresnie és olyan oldalakkal találja szembe magát amely tele van sok nem releváns reklámokkal illetve kötelező az internetkapcsolat is. Az ilyen típusú játékoknak a minősége is változó és sokáig is eltarthat, ha az ember egy minőségi játékot akar találni. Ezek nagyrészét nem lehet letölteni, ezért kénytelenek vagyunk a böngészőnkből használni ami a felhasználóknak sok plusz lépést jelent.
+Jelenleg, ha a felhasználó játszani szeretne egy memória tesztelő játékkal, akkor az interneten kell rákeresnie és olyan oldalakkal találja szembe magát, amely tele van sok reklámmal, illetve kötelező az internetkapcsolat is. Az ilyen típusú játékoknak a minősége is változó és sokáig is eltarthat, ha az ember egy minőségi játékot akar találni. Ezek nagyrészét nem lehet letölteni, ezért kénytelenek vagyunk a böngészőnkből használni, ami a felhasználóknak sok plusz lépést és időt jelent.
 
 ## 4. Igényelt üzleti folyamatok modellje
 
@@ -39,12 +39,12 @@ A felhasználó a kártyákra kattintva keres párokat, ha nem egyeznek meg akko
 
 ## 9. Forgatókönyvek
 
-Az alkalmazást elindítva megjelennek a kártyák amelyeket felfordigatva párosítani kell a velük azonos kártyával, majd a játék befejeztével megtekinthetjük a próbálkozások számát is.
+Az alkalmazást elindítva megjelennek a kártyák, amelyeket felfordítgatva párosítani kell a velük azonos kártyával, majd a játék befejeztével megtekinthetjük a próbálkozások számát is.
 
 ## 10. Funkció - követelmény megfeleltetése
 
-K1: Az alkalmazás elindításával megjelennek a képernyőn a kártyák. K2: A kártyák közül választhatunk hogy melyiket akarjuk felfordítani. 
-K3: Sikeres párosítás során a kártyák felfordítva maradnak. K4: Ha nem egyeznek a kártyák akkor azok visszafordulnak.
+K1: Az alkalmazás elindításával megjelennek a képernyőn a kártyák. K2: A kártyák közül választhatjuk, hogy melyiket akarjuk felfordítani. 
+K3: Sikeres párosítás során a kártyák felfordítva maradnak. K4: Ha nem egyeznek a kártyák, akkor azok visszafordulnak.
 
 ## 11 Fogalomszótár
 | Fogalom | Leírás |

@@ -1,10 +1,8 @@
-### A tesztelési jegyzőkönyv kitöltésére egy sablon:
 
-**Tesztelő:** Vezetéknév Keresztnév
+**Tesztelő:** Góga Dávid
 
-**Tesztelés dátuma:** Év.Hónap.Nap
+**Tesztelés dátuma:** 2024.10.08.
 
 Tesztszám | Rövid leírás | Várt eredmény | Eredmény | Megjegyzés
 ----------|--------------|---------------|----------|-----------
-például. Teszt #01 | Regisztráció | A felhasználó az adatok megadásával sikeresen regisztrálni tud  | A felhasználó sikeresen regisztrált | Nem találtam problémát.
-... | ... | ... | ... | ...
+Teszt #01 | Egy játék végigjátszása | A játékos párokat keres az előtte megjelenő kártyákon  | A játékos megtalálta az összes párt | Nem találtam problémát.

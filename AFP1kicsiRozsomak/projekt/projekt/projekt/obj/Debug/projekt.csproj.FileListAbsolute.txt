@@ -1,0 +1,41 @@
+E:\Beadando git\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\bin\Debug\projekt.exe.config
+E:\Beadando git\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\bin\Debug\projekt.exe
+E:\Beadando git\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\bin\Debug\projekt.pdb
+E:\Beadando git\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.AssemblyReference.cache
+E:\Beadando git\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.SuggestedBindingRedirects.cache
+E:\Beadando git\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.Form1.resources
+E:\Beadando git\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+E:\Beadando git\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.cache
+E:\Beadando git\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+E:\Beadando git\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.exe
+E:\Beadando git\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\User\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\User\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\User\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\User\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.Form1.resources
+C:\Users\User\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\User\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.AssemblyReference.cache
+C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.Form1.resources
+C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.cache
+C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\Bence\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.pdb
+C:\Users\Goga\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\bin\Debug\projekt.exe.config
+C:\Users\Goga\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\bin\Debug\projekt.exe
+C:\Users\Goga\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\bin\Debug\projekt.pdb
+C:\Users\Goga\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.AssemblyReference.cache
+C:\Users\Goga\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.Form1.resources
+C:\Users\Goga\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\Goga\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.GenerateResource.cache
+C:\Users\Goga\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.exe
+C:\Users\Goga\Documents\GitHub\AFP1kicsiRozsomak\AFP1kicsiRozsomak\projekt\projekt\projekt\obj\Debug\projekt.pdb
