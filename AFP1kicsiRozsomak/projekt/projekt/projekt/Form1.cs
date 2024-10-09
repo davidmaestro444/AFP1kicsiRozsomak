@@ -30,6 +30,9 @@ namespace projekt
             Feltoltes();
         }
 
+        System.Timers.Timer Timer;
+        int m, s;
+
         private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
         {
 
@@ -73,6 +76,8 @@ namespace projekt
              masodik = nyomott;
              masodik.ForeColor = Color.White;
 
+            NyertesEllenorzes();
+
             probalkozas++;
             probak.Text = "Próbálkozások: " + probalkozas;
 
@@ -86,6 +91,25 @@ namespace projekt
             timer1.Start();
         }
 
+        private void NyertesEllenorzes()
+        {
+            bool nyert = true;
+            foreach (Control control in panel.Controls)
+            {
+                Label label = control as Label;
+                if (label != null && label.ForeColor != Color.White)
+                {
+                    nyert = false;
+                    break;
+                }
+            }
+            if (nyert)
+            {
+                MessageBox.Show("Gratulálok, a feladványt " + probalkozas +" próbálkozásból oldottad meg!");
+                Close();
+            }
+        }
+
         private void idozito(object sender, EventArgs e)
         {
             timer1.Stop();
@@ -94,5 +118,33 @@ namespace projekt
             elso = null;
             masodik = null;
         }
+
+        private void Timer_Elapsed(object sender, System.Timers.ElapsedEventArgs e)
+        {
+                Invoke(new Action(() =>
+                {
+                    s = s + 1;
+                    if (s == 60)
+                    {
+                        m = m + 1;
+                        s = 0;
+                    }
+                    label17.Text = "Time: " + m + ":" + s;
+            
+            
+            
+            
+                }));
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+            {
+                Timer = new System.Timers.Timer();
+                Timer.Interval = 1000;
+                Timer.Elapsed += Timer_Elapsed;
+                Timer.Start();
+            }
+
+
     }
 }
