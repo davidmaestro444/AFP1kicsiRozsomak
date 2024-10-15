@@ -23,9 +23,9 @@ megtekintheti.
    * Üzleti szereplő: Penyaskó Dávid
      
 ### 2.2 Projektmunkások és felelőségek:
-   * Frontend:   Bobák Martin Ferenc, Bogáthy Péter, Góga Dávid 
-   * Backend:    Bobák Martin Ferenc, Bogáthy Péter, Góga Dávid 
-   * Tesztelés:  Bobák Martin Ferenc, Bogáthy Péter, Góga Dávid 
+   * Frontend:   Bobák Martin Ferenc, Bogáthy Péter, Góga Dávid, Deme Bence
+   * Backend:    Bobák Martin Ferenc, Bogáthy Péter, Góga Dávid, Deme Bence 
+   * Tesztelés:  Bobák Martin Ferenc, Bogáthy Péter, Góga Dávid, Deme Bence 
      
 ### 2.3 Ütemterv:
 
