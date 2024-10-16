@@ -4,5 +4,6 @@
 
 Tesztszám | Rövid leírás | Várt eredmény | Eredmény | Megjegyzés
 ----------|--------------|---------------|----------|-----------
-Teszt1 | Játék elindítása - menü használata | A felhasználó az alkalmazás indításával először a menüvel találkozik. | A felhasználó szembesül a menüvel. | Nem találtam problémát.
+Teszt1 | Új játék gomb megnyomása | Menü megjelenik, lehetőség van a játék indítására. | A játék elkezdődik és már lehet is játszani. | Menü betöltése és a gombok is működnek. 
+Teszt2 | Kilépés gomb megnyomása | Játék bezárul, kilépés mindenből. | A játék végezetével a kilépés gombra kattintva bezárjuk a játékot. | Menü betöltése hibátlan, gombok működnek.
 ... | ... | ... | ... | ...
