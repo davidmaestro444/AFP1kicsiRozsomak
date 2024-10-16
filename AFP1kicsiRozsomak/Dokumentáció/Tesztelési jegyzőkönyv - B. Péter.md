@@ -2,9 +2,9 @@
 
 **Tesztelő:** Vezetéknév Keresztnév
 
-**Tesztelés dátuma:** Év.Hónap.Nap
+**Tesztelés dátuma:** 2024.10.08.
 
 Tesztszám | Rövid leírás | Várt eredmény | Eredmény | Megjegyzés
 ----------|--------------|---------------|----------|-----------
-például. Teszt #01 | Regisztráció | A felhasználó az adatok megadásával sikeresen regisztrálni tud  | A felhasználó sikeresen regisztrált | Nem találtam problémát.
+például. Teszt1 | Játék elindítása | A felhasználó az alkalmazás indításával először a menüvel találkozik. | A felhasználó szembesül a menüvel. | Nem találtam problémát.
 ... | ... | ... | ... | ...
