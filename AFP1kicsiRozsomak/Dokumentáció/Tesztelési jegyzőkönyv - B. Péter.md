@@ -1,5 +1,3 @@
-### A tesztelési jegyzőkönyv kitöltésére egy sablon:
-
 **Tesztelő:** Bogáthy Péter
 
 **Tesztelés dátuma:** 2024.10.08.
