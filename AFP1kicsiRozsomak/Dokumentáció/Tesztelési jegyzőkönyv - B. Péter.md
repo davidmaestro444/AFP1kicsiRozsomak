@@ -6,5 +6,5 @@
 
 Tesztszám | Rövid leírás | Várt eredmény | Eredmény | Megjegyzés
 ----------|--------------|---------------|----------|-----------
-például. Teszt1 | Játék elindítása | A felhasználó az alkalmazás indításával először a menüvel találkozik. | A felhasználó szembesül a menüvel. | Nem találtam problémát.
+Teszt1 | Játék elindítása | A felhasználó az alkalmazás indításával először a menüvel találkozik. | A felhasználó szembesül a menüvel. | Nem találtam problémát.
 ... | ... | ... | ... | ...
