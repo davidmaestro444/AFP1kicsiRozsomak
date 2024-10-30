@@ -1,0 +1,10 @@
+C:\Users\Pietro\Downloads\UserMenu\User_Menu\bin\Debug\User_Menu.exe.config
+C:\Users\Pietro\Downloads\UserMenu\User_Menu\bin\Debug\User_Menu.exe
+C:\Users\Pietro\Downloads\UserMenu\User_Menu\bin\Debug\User_Menu.pdb
+C:\Users\Pietro\Downloads\UserMenu\User_Menu\obj\Debug\User_Menu.csproj.AssemblyReference.cache
+C:\Users\Pietro\Downloads\UserMenu\User_Menu\obj\Debug\User_Menu.Form1.resources
+C:\Users\Pietro\Downloads\UserMenu\User_Menu\obj\Debug\User_Menu.Properties.Resources.resources
+C:\Users\Pietro\Downloads\UserMenu\User_Menu\obj\Debug\User_Menu.csproj.GenerateResource.cache
+C:\Users\Pietro\Downloads\UserMenu\User_Menu\obj\Debug\User_Menu.csproj.CoreCompileInputs.cache
+C:\Users\Pietro\Downloads\UserMenu\User_Menu\obj\Debug\User_Menu.exe
+C:\Users\Pietro\Downloads\UserMenu\User_Menu\obj\Debug\User_Menu.pdb

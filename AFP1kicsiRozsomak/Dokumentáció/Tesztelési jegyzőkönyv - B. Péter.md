@@ -1,10 +1,9 @@
-### A tesztelési jegyzőkönyv kitöltésére egy sablon:
+**Tesztelő:** Bogáthy Péter
 
-**Tesztelő:** Vezetéknév Keresztnév
-
-**Tesztelés dátuma:** Év.Hónap.Nap
+**Tesztelés dátuma:** 2024.10.08.
 
 Tesztszám | Rövid leírás | Várt eredmény | Eredmény | Megjegyzés
 ----------|--------------|---------------|----------|-----------
-például. Teszt #01 | Regisztráció | A felhasználó az adatok megadásával sikeresen regisztrálni tud  | A felhasználó sikeresen regisztrált | Nem találtam problémát.
+Teszt1 | Új játék gomb megnyomása | Menü megjelenik, lehetőség van a játék indítására. | A játék elkezdődik és már lehet is játszani. | Menü betöltése és a gombok is működnek. 
+Teszt2 | Kilépés gomb megnyomása | Játék bezárul, kilépés mindenből. | A játék végezetével a kilépés gombra kattintva bezárjuk a játékot. | Menü betöltése hibátlan, gombok működnek.
 ... | ... | ... | ... | ...
